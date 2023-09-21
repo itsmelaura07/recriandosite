@@ -1,2 +1,2 @@
 # recriandosite
-Aprendendo a fazer site sozinha
+Aprendendo a fazer site sozinha no senactech, sem ajuda do professor.
