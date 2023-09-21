@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500&family=Open+Sans:wght@300;400;500;600&display=swap');
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
+}
+
+.imagem1{
+     position: absolute;
+     width:100vw;
+     height:100vh;
+     padding: 0;
+     color:white;
+     background: url(https://s3.sa-east-1.amazonaws.com/site2.shop2gether.com.br/testeiras/marcas/testeira_mobile_beleza_marcas_kyliecosmetics.jpg/imagens/kyliecosmetics.png)no-repeat bottom center scroll;
+     background-color: black;
+     background-size:cover ;
+     
+}
+#texto{
+    display:flex;
+    font-size: xx-large;
+    margin-left: 10%;
+    margin-top: 30px;
+ }
+ #maquiagem1{
+     display:flex;
+     margin-left:6%;
+     margin-top: 3%;
+}
+#paragrafo{
+    position: absolute;
+    margin-top:17%;
+    color: rgba(102, 91, 91, 0.927);
+    margin-left: 4%;
+}
+#paragrafo1{
+    position:absolute;
+    margin-top: 17%;
+    margin-left: 18%;;
+}
+

@@ -1,0 +1,40 @@
+@charset "utf-8";
+@import "https://fonts.googleapis.com/css?family=Noto+Serif";
+
+
+html, body{
+    height:100%;
+}
+
+nav#navMenu ul{
+    margin: 10px -8px 10px ;
+}
+
+nav#navMenu ul li{
+    text-decoration: none;
+    display:inline-block;
+}
+
+nav#navMenu ul li a{
+    text-decoration: none;
+    font-size: 16pt;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+footer#rodape{
+    display: block;
+    position:absolute;
+    bottom: -300px;
+    left:  -20px;
+    right: 0px;
+    height: 60px;
+    box-shadow: 8px 8px 8px 8px black;
+}
+footer p{
+    text-align: center;
+    text-indent: 20pt;
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+}
